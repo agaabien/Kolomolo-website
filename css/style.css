@@ -157,12 +157,18 @@ h1{
 }
 .one{
 	 background:url('../images/1.png');
+	 background-repeat: no-repeat;
+	background-size: cover;
  }
 .two{
 	background:url('../images/2.png');
+	background-repeat: no-repeat;
+background-size: cover;
 }
 .three{
 	background:url('../images/3.png');
+	background-repeat: no-repeat;
+background-size: cover;
 }
 
 .one:hover, .two:hover, .three:hover{
